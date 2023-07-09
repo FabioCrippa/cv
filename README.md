@@ -4,6 +4,8 @@ O projeto tem como objetivo montar a replica de um CV Online, utilizando conceit
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
+Para disponibilizar o código como uma homepage, basta ir ao menu-settings, page, deploy-main e salvar.
+
 **Referências:**
 
 W3C: https://www.w3schools.com/howto/howto_website_create_resume.asp
