@@ -4,7 +4,7 @@ O projeto tem como objetivo montar a replica de um CV Online, utilizando conceit
 
 Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
-Para disponibilizar o código como uma homepage, basta ir ao menu-settings, page, deploy-main e salvar.
+Para disponibilizar o código como uma homepage, basta ir ao menu-Settings, Pages, Build and deployment, Branch-Main e salvar.
 
 **Referências:**
 
